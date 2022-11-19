@@ -1,2 +1,3 @@
 the intake of cse dept is 240
 it has increased
+it has decreased to 210
